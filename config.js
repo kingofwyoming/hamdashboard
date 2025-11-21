@@ -10,7 +10,7 @@ var layout_rows = 3;
 // The values are [color code, menu text, target link, scale factor, side],
 // add new lines following the structure for extra menu options. The comma at the end is important!
 var aURL = [
-  ["2196F3", "CLUBLOG", "https://clublog.org/livestream/WY0RS", "1.7"],
+  ["2196F3", "CLUBLOG", "https://clublog.org/livestream/WY0RS", "1.4"],
   ["2196F3", "DX CLUSTER", "https://dxcluster.ha8tks.hu/map/", "1"],
   [
     "2196F3",
