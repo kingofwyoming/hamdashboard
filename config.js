@@ -1,4 +1,4 @@
-const disableSetup = false;
+const disableSetup = true;
 var topBarCenterText = `WY0RS - DN70nj`;
 
 // Grid layout
