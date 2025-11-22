@@ -1,5 +1,5 @@
 const disableSetup = true;
-var topBarCenterText = `WY0RS - DN70nj`;
+var topBarCenterText = `WY0RS`;
 
 // Grid layout
 var layout_cols = 3;
