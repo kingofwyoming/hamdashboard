@@ -57,8 +57,8 @@ var aIMG = [
     "https://radar.weather.gov/ridge/standard/KCYS_loop.gif",
   ],
   [
-    "NOAA D-RAP",
-    "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png",
+    "Max Usable Freq",
+    "https://prop.kc2g.com/renders/current/mufd-normal-now.svg",
   ],
   [
     "ISS POSITION",
