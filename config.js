@@ -20,6 +20,7 @@ var aURL = [
     "R",
   ],
   ["2196F3", "PISTAR", "http://pi-star.local/", "1.2"],
+  ["2196F3", "Boulder Radiosonde", "https://radiosondy.info/sonde_table.php?startplace=Boulder+%5BCO%5D+%28US%29&table=startplace", "1.4"],
   [
     "2196F3",
     "RADAR",
